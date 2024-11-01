@@ -1,6 +1,6 @@
 # DevOps Assignment: Report
 
-This project involves setting up and running an Nginx web server as a reverse proxy for a Flask application within Docker containers. Here is a summary of issues encountered, steps taken to resolve them, and the corrected code.
+This project involves debugging and deploying a Dockerized application. Here is a summary of issues encountered, steps taken to resolve them, required screenshots.
 
 ## Issues and Resolutions
 
@@ -45,15 +45,17 @@ This project involves setting up and running an Nginx web server as a reverse pr
 ## Screenshots
 
    ### 1. Application running in the browser
+![Screenshot (45)](https://github.com/user-attachments/assets/fa6b0eb2-62ce-4905-b2d5-be47653cc8fb)
 
    ### 2. Nginx Access Logs
 
+![Screenshot (44)](https://github.com/user-attachments/assets/a03efa06-8e2e-46bd-9cb4-838b5c18c78c)
 
 
-### Cloud Deployment
+## Cloud Deployment
    -
 
 
-Best Regards,
-Rohit Sharma
-21ucc083
+### Best Regards,
+### Rohit Sharma
+### 21ucc083
