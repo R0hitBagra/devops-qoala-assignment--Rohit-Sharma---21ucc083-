@@ -31,10 +31,10 @@ This project involves debugging and deploying a Dockerized application. Here is 
 **Error in nginx.conf:**
    - Fixed typos  mime.typess -> mime.types and default_typ -> default_type.
    
-** Error in Dockerfile (nginx Dockerfile):**
+**Error in Dockerfile (nginx Dockerfile):**
    - Fixed errors "eighty" -> "80" and in line 3 COPY ./html /usr/share/nginx/html, the html folder did not exist in the specified location, causing a build error so I created the missing html folder with an index.html file.
 
-** Error in Dockerfile (Python Dockerfile):**
+**Error in Dockerfile (Python Dockerfile):**
    - Fixed the typo in COPY appy.py /app to COPY app.py /app, corrected the spelling of package netiface to netifaces. Changed EXPOSE "eight thousand" to EXPOSE 8000. Fixed "pythn" in CMD to "python".
 
 **Error in docker-compose.yaml:**
