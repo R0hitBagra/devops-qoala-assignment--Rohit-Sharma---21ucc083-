@@ -52,13 +52,16 @@ This project involves debugging and deploying a Dockerized application. Here is 
 ![Screenshot (44)](https://github.com/user-attachments/assets/a03efa06-8e2e-46bd-9cb4-838b5c18c78c)
 
 
+---
+
 ## Cloud Deployment
    **1> I successfully deployed a Dockerized application on an AWS EC2 instance, which includes a Python web application served by Nginx.**
+   
    **2>The application is accessible at the public IP address http://13.126.187.102.**
 
    ![Screenshot (46)](https://github.com/user-attachments/assets/fef627f1-7786-48f8-be8e-86bb75e2f335)
 
-
+---
 
 ### Best Regards,
 ### Rohit Sharma
